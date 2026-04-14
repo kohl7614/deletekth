@@ -1,2 +1,2 @@
-# bracket_match
-c++作业：括号匹配问题
+# deletekth.cpp
+c++作业：删除从栈顶开始第k个节点
